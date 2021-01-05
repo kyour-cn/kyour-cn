@@ -12,7 +12,8 @@
  `---------------------------------------------------------------------------------'
 </pre>
 
-98年11月生，中专毕业，辍学修车；后19年5月入职PHP开发，边干边学
+98年11月生，中专毕业，辍学修车；后19年5月入职PHP开发，边干边学。
+
 本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、
 JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、
 Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，
