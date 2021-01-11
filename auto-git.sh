@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# /data/dev/kyour/auto-github.sh
+# /data/dev/kyour-cn/auto-git.sh
 
 # vim /var/spool/cron/root
 # systemctl restart crond
