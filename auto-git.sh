@@ -5,7 +5,7 @@
 # vim /var/spool/cron/root
 # systemctl restart crond
 
-cd /data/dev/kyour-cn
+cd /data/script/git/kyour-cn
 
 git pull
 
